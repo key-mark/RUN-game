@@ -1,0 +1,18 @@
+# Unity 自动生成的文件，不需要提交
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# VSCode / Rider / JetBrains 相关文件
+.vscode/
+*.sln
+*.csproj
+*.unityproj
+*.userprefs
+
+# Unity 的元数据（可以提交，但通常不需要）
+*.meta
